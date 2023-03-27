@@ -22,9 +22,18 @@
     color: #686868;
   }
   
-  .score {}
+  .score {
+    margin-top: 10px;
+  }
   
-  .container {}
+  .container {
+    max-width: 960px;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    gap: 1rem;
+    margin: auto;
+    padding: 20px;
+  }
   
   .cell div {}
   
