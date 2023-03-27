@@ -57,7 +57,9 @@
     transform: rotateY(90deg);
   }
   
-  .back {}
+  .back {
+    background-color: #333;
+  }
   
   img {}
   
