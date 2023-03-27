@@ -40,9 +40,14 @@
     border-radius: 4px;
   }
   
-  .cell {}
+  .cell {
+    position: relative;
+    cursor: pointer;
+  }
   
-  .front {}
+  .front {
+    
+  }
   
   .back {}
   
