@@ -70,6 +70,10 @@
     transform: rotateY(0deg);
   }
   
-  .match {}
+  .match {
+    transform: rotateY(0deg);
+  }
   
-  .show {}
+  .show {
+    transform: rotateY(0deg);
+  }
