@@ -5,49 +5,27 @@
   }
 
   body {
-  
+    background-color: rgb(245, 201, 235);
   }
   
-  .head {
-   
-  }
+  .head {}
   
-  .score {
-    
-  }
+  .score {}
   
-  .container {
+  .container {}
   
-  }
+  .cell div {}
   
-  .cell div {
-
-  }
+  .cell {}
   
-  .cell {
-    
-  }
+  .front {}
   
-  .front {
-   
-  }
+  .back {}
   
-  .back {
-   
-  }
+  img {}
   
-  img {
-   
-  }
+  .flip {}
   
-  .flip {
-    
-  }
+  .match {}
   
-  .match {
-  
-  }
-  
-  .show {
-    
-  }
+  .show {}
