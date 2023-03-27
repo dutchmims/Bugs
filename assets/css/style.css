@@ -35,7 +35,10 @@
     padding: 20px;
   }
   
-  .cell div {}
+  .cell div {
+    height: 130px;
+    border-radius: 4px;
+  }
   
   .cell {}
   
